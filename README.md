@@ -1,10 +1,10 @@
-# ADAS: Object Detection and Tracking for Low-Visibility Conditions
+# 🚗 ADAS: Object Detection and Tracking for Low-Visibility Conditions
 
 An Advanced Driver Assistance System (ADAS) prototype that improves on-road safety during adverse weather and lighting conditions using thermal camera input and real-time object detection and tracking. Developed with YOLOv4, DeepSORT, and OpenCV.
 
 ---
 
-## 🚗 Project Overview
+## 📌 Project Overview
 
 Low visibility due to fog, rain, and nighttime driving contributes to a large percentage of road accidents. This system uses a thermal imaging camera to detect and track objects (pedestrians, vehicles, etc.) on the road, even in poor visibility conditions. The information is then projected onto a Heads-Up Display (HUD) for real-time driver assistance.
 
@@ -58,6 +58,10 @@ ADAS-Visibility-System/
 ├── object_tracker.py    # Object tracking via DeepSORT
 ├── livelocation.py      # Location services using Google Maps API
 ├── addsymbol.py         # HUD symbol rendering
+├── directions.py        # Find direction to a location using Google Maps API
+├── text2speech.py       # Convert text to speech
+├── dateweather.py       # Get the current date and time
+├── speech2text.py       # Convert speech to text
 ├── /model/              # YOLOv4 weights and config files
 ├── /docs/               # Phase reports and dissertation
 └── README.md            # This file
