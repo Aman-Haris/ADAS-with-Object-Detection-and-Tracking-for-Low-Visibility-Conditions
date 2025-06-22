@@ -113,9 +113,8 @@ This project is open-source under the [MIT License].
 
 ## 🙌 Acknowledgements
 
-* Dr. Doddegowda B. J (Guide, AMCEC)
-* David Corne (Supervisor, Heriot-Watt University)
-* My project partners: Akshay, Harish, Devraj
+* [THEAIGUY youtube channel](https://www.youtube.com/@TheAIGuy), who's video [Object Tracking Using YOLOv4, Deep SORT, and TensorFlow](https://www.youtube.com/watch?v=FuvQ8Melz1o) served as an initial base to build this project upon.
+* My project partners: Akshay Kumar H S, Shree Harish, Devraj R
 
 ---
 
